@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Moovie-store/static/css/main.6681f34c.chunk.css",
+    "main.js": "/Moovie-store/static/js/main.81bce84c.chunk.js",
+    "main.js.map": "/Moovie-store/static/js/main.81bce84c.chunk.js.map",
+    "runtime-main.js": "/Moovie-store/static/js/runtime-main.8db8bb84.js",
+    "runtime-main.js.map": "/Moovie-store/static/js/runtime-main.8db8bb84.js.map",
+    "static/js/2.5e777653.chunk.js": "/Moovie-store/static/js/2.5e777653.chunk.js",
+    "static/js/2.5e777653.chunk.js.map": "/Moovie-store/static/js/2.5e777653.chunk.js.map",
+    "index.html": "/Moovie-store/index.html",
+    "static/css/main.6681f34c.chunk.css.map": "/Moovie-store/static/css/main.6681f34c.chunk.css.map",
+    "static/js/2.5e777653.chunk.js.LICENSE.txt": "/Moovie-store/static/js/2.5e777653.chunk.js.LICENSE.txt",
+    "static/media/VHS.85e0ab7b.jpg": "/Moovie-store/static/media/VHS.85e0ab7b.jpg",
+    "static/media/cow.3dc396f8.png": "/Moovie-store/static/media/cow.3dc396f8.png",
+    "static/media/popcorn.980aa763.png": "/Moovie-store/static/media/popcorn.980aa763.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8db8bb84.js",
+    "static/js/2.5e777653.chunk.js",
+    "static/css/main.6681f34c.chunk.css",
+    "static/js/main.81bce84c.chunk.js"
+  ]
+}
